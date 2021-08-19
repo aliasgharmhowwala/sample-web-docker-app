@@ -1,2 +1,2 @@
-docker-compose up
-docker-compose scale htmlpage = 2
+- docker-compose up
+- docker-compose scale htmlpage = 2
